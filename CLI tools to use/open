@@ -1,0 +1,19 @@
+# open . 
+open the current folder and its files in finder
+also open folders ,files , pdfs 
+open resumeJanmesh.pdf 
+this opens the pdf 
+
+# mv 
+this has many funcs. 
+1. it can change the name of files 
+mv <current_name> <name_youWant>
+2. can change path of a file
+mv <file_name> <folderName_withThis_Sign>/
+this tells that its a folder , can move multiple files as well !
+mv <f1> <f2> <destination_folder>/
+
+# cp
+this copies files , folders etc 
+cp <file1> <folder>/
+cp -r <folder1> <folder2> // this -r is bcoz a folder can contain more files and folders which also should be copied
